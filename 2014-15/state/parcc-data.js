@@ -2,7 +2,7 @@
   {
     "id": 1,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,946",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,705",
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,473",
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,817",
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "64,623",
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "64,139",
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,096",
@@ -100,7 +100,7 @@
   {
     "id": 8,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "62,126",
@@ -114,7 +114,7 @@
   {
     "id": 9,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "58,941",
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "66,968",
@@ -142,7 +142,7 @@
   {
     "id": 11,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,752",
@@ -156,7 +156,7 @@
   {
     "id": 12,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,452",
@@ -170,7 +170,7 @@
   {
     "id": 13,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "65,822",
@@ -184,7 +184,7 @@
   {
     "id": 14,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "62,576",
@@ -198,7 +198,7 @@
   {
     "id": 15,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "47,490",
@@ -212,7 +212,7 @@
   {
     "id": 16,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "59,222",
@@ -240,7 +240,7 @@
   {
     "id": 18,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "46,288",
@@ -254,7 +254,7 @@
   {
     "id": 19,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "13,614",
@@ -268,7 +268,7 @@
   {
     "id": 20,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "12,616",
@@ -282,7 +282,7 @@
   {
     "id": 21,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "All Students",
     "subCategory": "All",
     "totalRecords": "10,255",
@@ -296,7 +296,7 @@
   {
     "id": 22,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,709",
@@ -310,7 +310,7 @@
   {
     "id": 23,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,237",
@@ -324,7 +324,7 @@
   {
     "id": 24,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,621",
@@ -338,7 +338,7 @@
   {
     "id": 25,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,084",
@@ -352,7 +352,7 @@
   {
     "id": 26,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,440",
@@ -366,7 +366,7 @@
   {
     "id": 27,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,033",
@@ -380,7 +380,7 @@
   {
     "id": 28,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,531",
@@ -394,7 +394,7 @@
   {
     "id": 29,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,286",
@@ -408,7 +408,7 @@
   {
     "id": 30,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,136",
@@ -422,7 +422,7 @@
   {
     "id": 31,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "31,487",
@@ -436,7 +436,7 @@
   {
     "id": 32,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "32,638",
@@ -450,7 +450,7 @@
   {
     "id": 33,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "31,501",
@@ -464,7 +464,7 @@
   {
     "id": 34,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,407",
@@ -478,7 +478,7 @@
   {
     "id": 35,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "31,689",
@@ -492,7 +492,7 @@
   {
     "id": 36,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "31,640",
@@ -506,7 +506,7 @@
   {
     "id": 37,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "30,486",
@@ -520,7 +520,7 @@
   {
     "id": 38,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "29,807",
@@ -534,7 +534,7 @@
   {
     "id": 39,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "29,134",
@@ -548,7 +548,7 @@
   {
     "id": 40,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "34,213",
@@ -562,7 +562,7 @@
   {
     "id": 41,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,755",
@@ -576,7 +576,7 @@
   {
     "id": 42,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,634",
@@ -590,7 +590,7 @@
   {
     "id": 43,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,118",
@@ -604,7 +604,7 @@
   {
     "id": 44,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,432",
@@ -618,7 +618,7 @@
   {
     "id": 45,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,020",
@@ -632,7 +632,7 @@
   {
     "id": 46,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "33,534",
@@ -646,7 +646,7 @@
   {
     "id": 47,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "32,288",
@@ -660,7 +660,7 @@
   {
     "id": 48,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "31,991",
@@ -674,7 +674,7 @@
   {
     "id": 49,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "30,585",
@@ -688,7 +688,7 @@
   {
     "id": 50,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "24,386",
@@ -702,7 +702,7 @@
   {
     "id": 51,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "23,104",
@@ -716,7 +716,7 @@
   {
     "id": 52,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "30,827",
@@ -730,7 +730,7 @@
   {
     "id": 53,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "28,395",
@@ -772,7 +772,7 @@
   {
     "id": 56,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "23,278",
@@ -786,7 +786,7 @@
   {
     "id": 57,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "23,010",
@@ -800,7 +800,7 @@
   {
     "id": 58,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "7,190",
@@ -814,7 +814,7 @@
   {
     "id": 59,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "6,424",
@@ -828,7 +828,7 @@
   {
     "id": 60,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "6,497",
@@ -842,7 +842,7 @@
   {
     "id": 61,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "6,119",
@@ -856,7 +856,7 @@
   {
     "id": 62,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Gender",
     "subCategory": "Male",
     "totalRecords": "5,197",
@@ -870,7 +870,7 @@
   {
     "id": 63,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Gender",
     "subCategory": "Female",
     "totalRecords": "5,058",
@@ -884,7 +884,7 @@
   {
     "id": 64,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 497,
@@ -898,7 +898,7 @@
   {
     "id": 65,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,983",
@@ -912,7 +912,7 @@
   {
     "id": 66,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,030",
@@ -926,7 +926,7 @@
   {
     "id": 67,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,241",
@@ -940,7 +940,7 @@
   {
     "id": 68,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "36,322",
@@ -954,7 +954,7 @@
   {
     "id": 69,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 157,
@@ -968,7 +968,7 @@
   {
     "id": 70,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,605",
@@ -982,7 +982,7 @@
   {
     "id": 71,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 111,
@@ -996,7 +996,7 @@
   {
     "id": 72,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 498,
@@ -1010,7 +1010,7 @@
   {
     "id": 73,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,117",
@@ -1024,7 +1024,7 @@
   {
     "id": 74,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,023",
@@ -1038,7 +1038,7 @@
   {
     "id": 75,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "22,131",
@@ -1052,7 +1052,7 @@
   {
     "id": 76,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,224",
@@ -1066,7 +1066,7 @@
   {
     "id": 77,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 147,
@@ -1080,7 +1080,7 @@
   {
     "id": 78,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,496",
@@ -1094,7 +1094,7 @@
   {
     "id": 79,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 69,
@@ -1108,7 +1108,7 @@
   {
     "id": 80,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 527,
@@ -1122,7 +1122,7 @@
   {
     "id": 81,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,082",
@@ -1136,7 +1136,7 @@
   {
     "id": 82,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,927",
@@ -1150,7 +1150,7 @@
   {
     "id": 83,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,890",
@@ -1164,7 +1164,7 @@
   {
     "id": 84,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,411",
@@ -1178,7 +1178,7 @@
   {
     "id": 85,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 153,
@@ -1192,7 +1192,7 @@
   {
     "id": 86,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,293",
@@ -1206,7 +1206,7 @@
   {
     "id": 87,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 190,
@@ -1220,7 +1220,7 @@
   {
     "id": 88,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 509,
@@ -1234,7 +1234,7 @@
   {
     "id": 89,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,124",
@@ -1248,7 +1248,7 @@
   {
     "id": 90,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,986",
@@ -1262,7 +1262,7 @@
   {
     "id": 91,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,784",
@@ -1276,7 +1276,7 @@
   {
     "id": 92,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,705",
@@ -1290,7 +1290,7 @@
   {
     "id": 93,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 161,
@@ -1304,7 +1304,7 @@
   {
     "id": 94,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,339",
@@ -1318,7 +1318,7 @@
   {
     "id": 95,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 209,
@@ -1332,7 +1332,7 @@
   {
     "id": 96,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 495,
@@ -1346,7 +1346,7 @@
   {
     "id": 97,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,160",
@@ -1360,7 +1360,7 @@
   {
     "id": 98,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,976",
@@ -1374,7 +1374,7 @@
   {
     "id": 99,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,244",
@@ -1388,7 +1388,7 @@
   {
     "id": 100,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,122",
@@ -1402,7 +1402,7 @@
   {
     "id": 101,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 131,
@@ -1416,7 +1416,7 @@
   {
     "id": 102,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,225",
@@ -1430,7 +1430,7 @@
   {
     "id": 103,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 270,
@@ -1444,7 +1444,7 @@
   {
     "id": 104,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 521,
@@ -1458,7 +1458,7 @@
   {
     "id": 105,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,029",
@@ -1472,7 +1472,7 @@
   {
     "id": 106,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,973",
@@ -1486,7 +1486,7 @@
   {
     "id": 107,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "20,910",
@@ -1500,7 +1500,7 @@
   {
     "id": 108,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "34,966",
@@ -1514,7 +1514,7 @@
   {
     "id": 109,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 152,
@@ -1528,7 +1528,7 @@
   {
     "id": 110,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,252",
@@ -1542,7 +1542,7 @@
   {
     "id": 111,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 336,
@@ -1556,7 +1556,7 @@
   {
     "id": 112,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 571,
@@ -1570,7 +1570,7 @@
   {
     "id": 113,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,076",
@@ -1584,7 +1584,7 @@
   {
     "id": 114,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,271",
@@ -1598,7 +1598,7 @@
   {
     "id": 115,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,141",
@@ -1612,7 +1612,7 @@
   {
     "id": 116,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,307",
@@ -1626,7 +1626,7 @@
   {
     "id": 117,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 192,
@@ -1640,7 +1640,7 @@
   {
     "id": 118,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,069",
@@ -1654,7 +1654,7 @@
   {
     "id": 119,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 469,
@@ -1668,7 +1668,7 @@
   {
     "id": 120,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 533,
@@ -1682,7 +1682,7 @@
   {
     "id": 121,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,906",
@@ -1696,7 +1696,7 @@
   {
     "id": 122,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,054",
@@ -1710,7 +1710,7 @@
   {
     "id": 123,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "19,529",
@@ -1724,7 +1724,7 @@
   {
     "id": 124,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "34,465",
@@ -1738,7 +1738,7 @@
   {
     "id": 125,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 180,
@@ -1752,7 +1752,7 @@
   {
     "id": 126,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "1,987",
@@ -1766,7 +1766,7 @@
   {
     "id": 127,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 472,
@@ -1780,7 +1780,7 @@
   {
     "id": 128,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 457,
@@ -1794,7 +1794,7 @@
   {
     "id": 129,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,992",
@@ -1808,7 +1808,7 @@
   {
     "id": 130,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,882",
@@ -1822,7 +1822,7 @@
   {
     "id": 131,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "17,609",
@@ -1836,7 +1836,7 @@
   {
     "id": 132,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "33,674",
@@ -1850,7 +1850,7 @@
   {
     "id": 133,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 168,
@@ -1864,7 +1864,7 @@
   {
     "id": 134,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "1,817",
@@ -1878,7 +1878,7 @@
   {
     "id": 135,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 342,
@@ -1892,7 +1892,7 @@
   {
     "id": 136,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 500,
@@ -1906,7 +1906,7 @@
   {
     "id": 137,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,983",
@@ -1920,7 +1920,7 @@
   {
     "id": 138,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,025",
@@ -1934,7 +1934,7 @@
   {
     "id": 139,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "22,284",
@@ -1948,7 +1948,7 @@
   {
     "id": 140,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "36,316",
@@ -1962,7 +1962,7 @@
   {
     "id": 141,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 157,
@@ -1976,7 +1976,7 @@
   {
     "id": 142,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,607",
@@ -1990,7 +1990,7 @@
   {
     "id": 143,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 96,
@@ -2004,7 +2004,7 @@
   {
     "id": 144,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 497,
@@ -2018,7 +2018,7 @@
   {
     "id": 145,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,117",
@@ -2032,7 +2032,7 @@
   {
     "id": 146,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "3,021",
@@ -2046,7 +2046,7 @@
   {
     "id": 147,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "22,187",
@@ -2060,7 +2060,7 @@
   {
     "id": 148,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,216",
@@ -2074,7 +2074,7 @@
   {
     "id": 149,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 146,
@@ -2088,7 +2088,7 @@
   {
     "id": 150,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,495",
@@ -2102,7 +2102,7 @@
   {
     "id": 151,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 73,
@@ -2116,7 +2116,7 @@
   {
     "id": 152,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 527,
@@ -2130,7 +2130,7 @@
   {
     "id": 153,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,080",
@@ -2144,7 +2144,7 @@
   {
     "id": 154,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,925",
@@ -2158,7 +2158,7 @@
   {
     "id": 155,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,882",
@@ -2172,7 +2172,7 @@
   {
     "id": 156,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,403",
@@ -2186,7 +2186,7 @@
   {
     "id": 157,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 153,
@@ -2200,7 +2200,7 @@
   {
     "id": 158,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,293",
@@ -2214,7 +2214,7 @@
   {
     "id": 159,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 189,
@@ -2228,7 +2228,7 @@
   {
     "id": 160,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 510,
@@ -2242,7 +2242,7 @@
   {
     "id": 161,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "2,125",
@@ -2256,7 +2256,7 @@
   {
     "id": 162,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,988",
@@ -2270,7 +2270,7 @@
   {
     "id": 163,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,780",
@@ -2284,7 +2284,7 @@
   {
     "id": 164,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "35,705",
@@ -2298,7 +2298,7 @@
   {
     "id": 165,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 161,
@@ -2312,7 +2312,7 @@
   {
     "id": 166,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,342",
@@ -2326,7 +2326,7 @@
   {
     "id": 167,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 211,
@@ -2340,7 +2340,7 @@
   {
     "id": 168,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 493,
@@ -2354,7 +2354,7 @@
   {
     "id": 169,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,970",
@@ -2368,7 +2368,7 @@
   {
     "id": 170,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,961",
@@ -2382,7 +2382,7 @@
   {
     "id": 171,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "21,085",
@@ -2396,7 +2396,7 @@
   {
     "id": 172,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "33,591",
@@ -2410,7 +2410,7 @@
   {
     "id": 173,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 128,
@@ -2424,7 +2424,7 @@
   {
     "id": 174,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "2,133",
@@ -2438,7 +2438,7 @@
   {
     "id": 175,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 215,
@@ -2452,7 +2452,7 @@
   {
     "id": 176,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 444,
@@ -2466,7 +2466,7 @@
   {
     "id": 177,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,136",
@@ -2480,7 +2480,7 @@
   {
     "id": 178,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,653",
@@ -2494,7 +2494,7 @@
   {
     "id": 179,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "18,206",
@@ -2508,7 +2508,7 @@
   {
     "id": 180,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "23,118",
@@ -2522,7 +2522,7 @@
   {
     "id": 181,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 114,
@@ -2536,7 +2536,7 @@
   {
     "id": 182,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "1,595",
@@ -2550,7 +2550,7 @@
   {
     "id": 183,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 224,
@@ -2564,7 +2564,7 @@
   {
     "id": 184,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 538,
@@ -2578,7 +2578,7 @@
   {
     "id": 185,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,702",
@@ -2592,7 +2592,7 @@
   {
     "id": 186,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "2,654",
@@ -2606,7 +2606,7 @@
   {
     "id": 187,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "18,388",
@@ -2620,7 +2620,7 @@
   {
     "id": 188,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "33,332",
@@ -2634,7 +2634,7 @@
   {
     "id": 189,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 177,
@@ -2648,7 +2648,7 @@
   {
     "id": 190,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "1,991",
@@ -2662,7 +2662,7 @@
   {
     "id": 191,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 440,
@@ -2788,7 +2788,7 @@
   {
     "id": 200,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 295,
@@ -2802,7 +2802,7 @@
   {
     "id": 201,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": "1,732",
@@ -2816,7 +2816,7 @@
   {
     "id": 202,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": "1,826",
@@ -2830,7 +2830,7 @@
   {
     "id": 203,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "11,720",
@@ -2844,7 +2844,7 @@
   {
     "id": 204,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "28,435",
@@ -2858,7 +2858,7 @@
   {
     "id": 205,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 131,
@@ -2872,7 +2872,7 @@
   {
     "id": 206,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": "1,675",
@@ -2886,7 +2886,7 @@
   {
     "id": 207,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 474,
@@ -2900,7 +2900,7 @@
   {
     "id": 208,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 154,
@@ -2914,7 +2914,7 @@
   {
     "id": 209,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": 460,
@@ -2928,7 +2928,7 @@
   {
     "id": 210,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": 956,
@@ -2942,7 +2942,7 @@
   {
     "id": 211,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "5,892",
@@ -2956,7 +2956,7 @@
   {
     "id": 212,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "5,681",
@@ -2970,7 +2970,7 @@
   {
     "id": 213,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 45,
@@ -2984,7 +2984,7 @@
   {
     "id": 214,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": 312,
@@ -2998,7 +2998,7 @@
   {
     "id": 215,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 114,
@@ -3012,7 +3012,7 @@
   {
     "id": 216,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 111,
@@ -3026,7 +3026,7 @@
   {
     "id": 217,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": 439,
@@ -3040,7 +3040,7 @@
   {
     "id": 218,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": 861,
@@ -3054,7 +3054,7 @@
   {
     "id": 219,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "4,924",
@@ -3068,7 +3068,7 @@
   {
     "id": 220,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "5,876",
@@ -3082,7 +3082,7 @@
   {
     "id": 221,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 29,
@@ -3096,7 +3096,7 @@
   {
     "id": 222,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": 277,
@@ -3110,7 +3110,7 @@
   {
     "id": 223,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 99,
@@ -3124,7 +3124,7 @@
   {
     "id": 224,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "American Indian or Alaska Native",
     "totalRecords": 87,
@@ -3138,7 +3138,7 @@
   {
     "id": 225,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Asian",
     "totalRecords": 457,
@@ -3152,7 +3152,7 @@
   {
     "id": 226,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Black",
     "totalRecords": 814,
@@ -3166,7 +3166,7 @@
   {
     "id": 227,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hispanic",
     "totalRecords": "3,716",
@@ -3180,7 +3180,7 @@
   {
     "id": 228,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "White",
     "totalRecords": "4,813",
@@ -3194,7 +3194,7 @@
   {
     "id": 229,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Hawaiian/Pacific Islander",
     "totalRecords": 38,
@@ -3208,7 +3208,7 @@
   {
     "id": 230,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Two or More Races",
     "totalRecords": 249,
@@ -3222,7 +3222,7 @@
   {
     "id": 231,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Race/Ethnicity",
     "subCategory": "Unreported",
     "totalRecords": 81,
@@ -3236,7 +3236,7 @@
   {
     "id": 232,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "28,837",
@@ -3250,7 +3250,7 @@
   {
     "id": 233,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,109",
@@ -3264,7 +3264,7 @@
   {
     "id": 234,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "28,854",
@@ -3278,7 +3278,7 @@
   {
     "id": 235,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "36,851",
@@ -3292,7 +3292,7 @@
   {
     "id": 236,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "28,229",
@@ -3306,7 +3306,7 @@
   {
     "id": 237,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,244",
@@ -3320,7 +3320,7 @@
   {
     "id": 238,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "27,982",
@@ -3334,7 +3334,7 @@
   {
     "id": 239,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,835",
@@ -3348,7 +3348,7 @@
   {
     "id": 240,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "27,269",
@@ -3362,7 +3362,7 @@
   {
     "id": 241,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,354",
@@ -3376,7 +3376,7 @@
   {
     "id": 242,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "25,797",
@@ -3390,7 +3390,7 @@
   {
     "id": 243,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "38,342",
@@ -3404,7 +3404,7 @@
   {
     "id": 244,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "24,918",
@@ -3418,7 +3418,7 @@
   {
     "id": 245,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "40,178",
@@ -3432,7 +3432,7 @@
   {
     "id": 246,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "22,213",
@@ -3446,7 +3446,7 @@
   {
     "id": 247,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "39,913",
@@ -3460,7 +3460,7 @@
   {
     "id": 248,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "19,366",
@@ -3474,7 +3474,7 @@
   {
     "id": 249,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "39,575",
@@ -3488,7 +3488,7 @@
   {
     "id": 250,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "29,838",
@@ -3502,7 +3502,7 @@
   {
     "id": 251,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,130",
@@ -3516,7 +3516,7 @@
   {
     "id": 252,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "28,905",
@@ -3530,7 +3530,7 @@
   {
     "id": 253,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "36,847",
@@ -3544,7 +3544,7 @@
   {
     "id": 254,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "28,211",
@@ -3558,7 +3558,7 @@
   {
     "id": 255,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,241",
@@ -3572,7 +3572,7 @@
   {
     "id": 256,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "27,977",
@@ -3586,7 +3586,7 @@
   {
     "id": 257,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "37,845",
@@ -3600,7 +3600,7 @@
   {
     "id": 258,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "27,062",
@@ -3614,7 +3614,7 @@
   {
     "id": 259,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "35,514",
@@ -3628,7 +3628,7 @@
   {
     "id": 260,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "22,546",
@@ -3642,7 +3642,7 @@
   {
     "id": 261,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "24,944",
@@ -3656,7 +3656,7 @@
   {
     "id": 262,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "22,520",
@@ -3670,7 +3670,7 @@
   {
     "id": 263,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "36,702",
@@ -3712,7 +3712,7 @@
   {
     "id": 266,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "12,814",
@@ -3726,7 +3726,7 @@
   {
     "id": 267,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "33,474",
@@ -3740,7 +3740,7 @@
   {
     "id": 268,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "6,622",
@@ -3754,7 +3754,7 @@
   {
     "id": 269,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "6,992",
@@ -3768,7 +3768,7 @@
   {
     "id": 270,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "5,147",
@@ -3782,7 +3782,7 @@
   {
     "id": 271,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "7,469",
@@ -3796,7 +3796,7 @@
   {
     "id": 272,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Free/Reduced Lunch Eligible",
     "totalRecords": "3,908",
@@ -3810,7 +3810,7 @@
   {
     "id": 273,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Free/Reduced Lunch",
     "subCategory": "Not Free/Reduced Lunch Eligible",
     "totalRecords": "6,347",
@@ -3824,7 +3824,7 @@
   {
     "id": 274,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,691",
@@ -3838,7 +3838,7 @@
   {
     "id": 275,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "59,255",
@@ -3852,7 +3852,7 @@
   {
     "id": 276,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "24,631",
@@ -3866,7 +3866,7 @@
   {
     "id": 277,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "41,315",
@@ -3880,7 +3880,7 @@
   {
     "id": 278,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,071",
@@ -3894,7 +3894,7 @@
   {
     "id": 279,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,634",
@@ -3908,7 +3908,7 @@
   {
     "id": 280,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "25,244",
@@ -3922,7 +3922,7 @@
   {
     "id": 281,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "40,461",
@@ -3936,7 +3936,7 @@
   {
     "id": 282,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,175",
@@ -3950,7 +3950,7 @@
   {
     "id": 283,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,298",
@@ -3964,7 +3964,7 @@
   {
     "id": 284,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "23,928",
@@ -3978,7 +3978,7 @@
   {
     "id": 285,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "41,545",
@@ -3992,7 +3992,7 @@
   {
     "id": 286,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,046",
@@ -4006,7 +4006,7 @@
   {
     "id": 287,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,771",
@@ -4020,7 +4020,7 @@
   {
     "id": 288,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "13,198",
@@ -4034,7 +4034,7 @@
   {
     "id": 289,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "52,619",
@@ -4048,7 +4048,7 @@
   {
     "id": 290,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,668",
@@ -4062,7 +4062,7 @@
   {
     "id": 291,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "57,955",
@@ -4076,7 +4076,7 @@
   {
     "id": 292,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "11,120",
@@ -4090,7 +4090,7 @@
   {
     "id": 293,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "53,503",
@@ -4104,7 +4104,7 @@
   {
     "id": 294,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,401",
@@ -4118,7 +4118,7 @@
   {
     "id": 295,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "57,738",
@@ -4132,7 +4132,7 @@
   {
     "id": 296,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "11,191",
@@ -4146,7 +4146,7 @@
   {
     "id": 297,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "52,948",
@@ -4160,7 +4160,7 @@
   {
     "id": 298,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,115",
@@ -4174,7 +4174,7 @@
   {
     "id": 299,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,981",
@@ -4188,7 +4188,7 @@
   {
     "id": 300,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "5,621",
@@ -4202,7 +4202,7 @@
   {
     "id": 301,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "59,475",
@@ -4216,7 +4216,7 @@
   {
     "id": 302,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "5,450",
@@ -4230,7 +4230,7 @@
   {
     "id": 303,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "56,676",
@@ -4244,7 +4244,7 @@
   {
     "id": 304,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "5,285",
@@ -4258,7 +4258,7 @@
   {
     "id": 305,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "56,841",
@@ -4272,7 +4272,7 @@
   {
     "id": 306,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "4,786",
@@ -4286,7 +4286,7 @@
   {
     "id": 307,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "54,155",
@@ -4300,7 +4300,7 @@
   {
     "id": 308,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "4,792",
@@ -4314,7 +4314,7 @@
   {
     "id": 309,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "54,149",
@@ -4328,7 +4328,7 @@
   {
     "id": 310,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,797",
@@ -4342,7 +4342,7 @@
   {
     "id": 311,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "60,171",
@@ -4356,7 +4356,7 @@
   {
     "id": 312,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "25,619",
@@ -4370,7 +4370,7 @@
   {
     "id": 313,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "41,349",
@@ -4384,7 +4384,7 @@
   {
     "id": 314,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,071",
@@ -4398,7 +4398,7 @@
   {
     "id": 315,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,681",
@@ -4412,7 +4412,7 @@
   {
     "id": 316,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "25,293",
@@ -4426,7 +4426,7 @@
   {
     "id": 317,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "40,459",
@@ -4440,7 +4440,7 @@
   {
     "id": 318,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,169",
@@ -4454,7 +4454,7 @@
   {
     "id": 319,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,283",
@@ -4468,7 +4468,7 @@
   {
     "id": 320,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "23,921",
@@ -4482,7 +4482,7 @@
   {
     "id": 321,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "41,531",
@@ -4496,7 +4496,7 @@
   {
     "id": 322,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "7,040",
@@ -4510,7 +4510,7 @@
   {
     "id": 323,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "58,782",
@@ -4524,7 +4524,7 @@
   {
     "id": 324,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "13,199",
@@ -4538,7 +4538,7 @@
   {
     "id": 325,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "52,623",
@@ -4552,7 +4552,7 @@
   {
     "id": 326,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,651",
@@ -4566,7 +4566,7 @@
   {
     "id": 327,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "55,925",
@@ -4580,7 +4580,7 @@
   {
     "id": 328,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "11,103",
@@ -4594,7 +4594,7 @@
   {
     "id": 329,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "51,473",
@@ -4608,7 +4608,7 @@
   {
     "id": 330,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,182",
@@ -4622,7 +4622,7 @@
   {
     "id": 331,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "41,308",
@@ -4636,7 +4636,7 @@
   {
     "id": 332,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "10,209",
@@ -4650,7 +4650,7 @@
   {
     "id": 333,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "37,281",
@@ -4664,7 +4664,7 @@
   {
     "id": 334,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "6,679",
@@ -4678,7 +4678,7 @@
   {
     "id": 335,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "52,543",
@@ -4692,7 +4692,7 @@
   {
     "id": 336,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "5,797",
@@ -4706,7 +4706,7 @@
   {
     "id": 337,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "53,425",
@@ -4776,7 +4776,7 @@
   {
     "id": 342,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "2,216",
@@ -4790,7 +4790,7 @@
   {
     "id": 343,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "44,072",
@@ -4804,7 +4804,7 @@
   {
     "id": 344,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": "3,629",
@@ -4818,7 +4818,7 @@
   {
     "id": 345,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "42,659",
@@ -4832,7 +4832,7 @@
   {
     "id": 346,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "1,722",
@@ -4846,7 +4846,7 @@
   {
     "id": 347,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "11,892",
@@ -4860,7 +4860,7 @@
   {
     "id": 348,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": 970,
@@ -4874,7 +4874,7 @@
   {
     "id": 349,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "12,644",
@@ -4888,7 +4888,7 @@
   {
     "id": 350,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": "1,191",
@@ -4902,7 +4902,7 @@
   {
     "id": 351,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "11,425",
@@ -4916,7 +4916,7 @@
   {
     "id": 352,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": 531,
@@ -4930,7 +4930,7 @@
   {
     "id": 353,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "12,085",
@@ -4944,7 +4944,7 @@
   {
     "id": 354,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Special Program",
     "subCategory": "IEP",
     "totalRecords": 567,
@@ -4958,7 +4958,7 @@
   {
     "id": 355,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Special Program",
     "subCategory": "Non-IEP",
     "totalRecords": "9,688",
@@ -4972,7 +4972,7 @@
   {
     "id": 356,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Special Program",
     "subCategory": "Title I",
     "totalRecords": 381,
@@ -4986,7 +4986,7 @@
   {
     "id": 357,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Special Program",
     "subCategory": "Non-Title I",
     "totalRecords": "9,874",
@@ -5000,7 +5000,7 @@
   {
     "id": 358,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": "1,505",
@@ -5014,7 +5014,7 @@
   {
     "id": 359,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "9,972",
@@ -5028,7 +5028,7 @@
   {
     "id": 360,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": 923,
@@ -5042,7 +5042,7 @@
   {
     "id": 361,
     "test": "ELA",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "53,546",
@@ -5056,7 +5056,7 @@
   {
     "id": 362,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": "1,113",
@@ -5070,7 +5070,7 @@
   {
     "id": 363,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "7,949",
@@ -5084,7 +5084,7 @@
   {
     "id": 364,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "4,183",
@@ -5098,7 +5098,7 @@
   {
     "id": 365,
     "test": "ELA",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,460",
@@ -5112,7 +5112,7 @@
   {
     "id": 366,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 996,
@@ -5126,7 +5126,7 @@
   {
     "id": 367,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,693",
@@ -5140,7 +5140,7 @@
   {
     "id": 368,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,287",
@@ -5154,7 +5154,7 @@
   {
     "id": 369,
     "test": "ELA",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,497",
@@ -5168,7 +5168,7 @@
   {
     "id": 370,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 982,
@@ -5182,7 +5182,7 @@
   {
     "id": 371,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,015",
@@ -5196,7 +5196,7 @@
   {
     "id": 372,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,828",
@@ -5210,7 +5210,7 @@
   {
     "id": 373,
     "test": "ELA",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,992",
@@ -5224,7 +5224,7 @@
   {
     "id": 374,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 973,
@@ -5238,7 +5238,7 @@
   {
     "id": 375,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,152",
@@ -5252,7 +5252,7 @@
   {
     "id": 376,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,346",
@@ -5266,7 +5266,7 @@
   {
     "id": 377,
     "test": "ELA",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,152",
@@ -5280,7 +5280,7 @@
   {
     "id": 378,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 879,
@@ -5294,7 +5294,7 @@
   {
     "id": 379,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "5,672",
@@ -5308,7 +5308,7 @@
   {
     "id": 380,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,207",
@@ -5322,7 +5322,7 @@
   {
     "id": 381,
     "test": "ELA",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,381",
@@ -5336,7 +5336,7 @@
   {
     "id": 382,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 995,
@@ -5350,7 +5350,7 @@
   {
     "id": 383,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "5,026",
@@ -5364,7 +5364,7 @@
   {
     "id": 384,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,514",
@@ -5378,7 +5378,7 @@
   {
     "id": 385,
     "test": "ELA",
-    "grade": "Grade 9",
+    "grade": "Grade-9",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "53,561",
@@ -5392,7 +5392,7 @@
   {
     "id": 386,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 708,
@@ -5406,7 +5406,7 @@
   {
     "id": 387,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "3,269",
@@ -5420,7 +5420,7 @@
   {
     "id": 388,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "6,203",
@@ -5434,7 +5434,7 @@
   {
     "id": 389,
     "test": "ELA",
-    "grade": "Grade 10",
+    "grade": "Grade-10",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "51,946",
@@ -5448,7 +5448,7 @@
   {
     "id": 390,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 573,
@@ -5462,7 +5462,7 @@
   {
     "id": 391,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "2,550",
@@ -5476,7 +5476,7 @@
   {
     "id": 392,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "6,200",
@@ -5490,7 +5490,7 @@
   {
     "id": 393,
     "test": "ELA",
-    "grade": "Grade 11",
+    "grade": "Grade-11",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "49,618",
@@ -5504,7 +5504,7 @@
   {
     "id": 394,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": "1,597",
@@ -5518,7 +5518,7 @@
   {
     "id": 395,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "10,929",
@@ -5532,7 +5532,7 @@
   {
     "id": 396,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": 923,
@@ -5546,7 +5546,7 @@
   {
     "id": 397,
     "test": "Math",
-    "grade": "Grade 3",
+    "grade": "Grade-3",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "53,519",
@@ -5560,7 +5560,7 @@
   {
     "id": 398,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": "1,151",
@@ -5574,7 +5574,7 @@
   {
     "id": 399,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "7,974",
@@ -5588,7 +5588,7 @@
   {
     "id": 400,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "4,182",
@@ -5602,7 +5602,7 @@
   {
     "id": 401,
     "test": "Math",
-    "grade": "Grade 4",
+    "grade": "Grade-4",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,445",
@@ -5616,7 +5616,7 @@
   {
     "id": 402,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 997,
@@ -5630,7 +5630,7 @@
   {
     "id": 403,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,688",
@@ -5644,7 +5644,7 @@
   {
     "id": 404,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,285",
@@ -5658,7 +5658,7 @@
   {
     "id": 405,
     "test": "Math",
-    "grade": "Grade 5",
+    "grade": "Grade-5",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "52,482",
@@ -5672,7 +5672,7 @@
   {
     "id": 406,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 980,
@@ -5686,7 +5686,7 @@
   {
     "id": 407,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,014",
@@ -5700,7 +5700,7 @@
   {
     "id": 408,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,828",
@@ -5714,7 +5714,7 @@
   {
     "id": 409,
     "test": "Math",
-    "grade": "Grade 6",
+    "grade": "Grade-6",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "53,000",
@@ -5728,7 +5728,7 @@
   {
     "id": 410,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 971,
@@ -5742,7 +5742,7 @@
   {
     "id": 411,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "6,146",
@@ -5756,7 +5756,7 @@
   {
     "id": 412,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "5,217",
@@ -5770,7 +5770,7 @@
   {
     "id": 413,
     "test": "Math",
-    "grade": "Grade 7",
+    "grade": "Grade-7",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "50,242",
@@ -5784,7 +5784,7 @@
   {
     "id": 414,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 864,
@@ -5798,7 +5798,7 @@
   {
     "id": 415,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "5,506",
@@ -5812,7 +5812,7 @@
   {
     "id": 416,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "3,922",
@@ -5826,7 +5826,7 @@
   {
     "id": 417,
     "test": "Math",
-    "grade": "Grade 8",
+    "grade": "Grade-8",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "37,198",
@@ -5840,7 +5840,7 @@
   {
     "id": 418,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 829,
@@ -5854,7 +5854,7 @@
   {
     "id": 419,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "3,937",
@@ -5868,7 +5868,7 @@
   {
     "id": 420,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "4,033",
@@ -5882,7 +5882,7 @@
   {
     "id": 421,
     "test": "Math",
-    "grade": "Algebra I",
+    "grade": "Algebra-1",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "50,423",
@@ -5952,7 +5952,7 @@
   {
     "id": 426,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 232,
@@ -5966,7 +5966,7 @@
   {
     "id": 427,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "1,347",
@@ -5980,7 +5980,7 @@
   {
     "id": 428,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "4,270",
@@ -5994,7 +5994,7 @@
   {
     "id": 429,
     "test": "Math",
-    "grade": "Algebra II",
+    "grade": "Algebra-2",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "40,439",
@@ -6008,7 +6008,7 @@
   {
     "id": 430,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 482,
@@ -6022,7 +6022,7 @@
   {
     "id": 431,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "1,854",
@@ -6036,7 +6036,7 @@
   {
     "id": 432,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "1,740",
@@ -6050,7 +6050,7 @@
   {
     "id": 433,
     "test": "Math",
-    "grade": "Integrated I",
+    "grade": "Integrated-1",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "9,538",
@@ -6064,7 +6064,7 @@
   {
     "id": 434,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 242,
@@ -6078,7 +6078,7 @@
   {
     "id": 435,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": "1,065",
@@ -6092,7 +6092,7 @@
   {
     "id": 436,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "1,932",
@@ -6106,7 +6106,7 @@
   {
     "id": 437,
     "test": "Math",
-    "grade": "Integrated II",
+    "grade": "Integrated-2",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "9,377",
@@ -6120,7 +6120,7 @@
   {
     "id": 438,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Language Proficiency",
     "subCategory": "Not English Proficient",
     "totalRecords": 101,
@@ -6134,7 +6134,7 @@
   {
     "id": 439,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Language Proficiency",
     "subCategory": "Limited English Proficient",
     "totalRecords": 621,
@@ -6148,7 +6148,7 @@
   {
     "id": 440,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Language Proficiency",
     "subCategory": "Fluent English Proficient",
     "totalRecords": "1,922",
@@ -6162,7 +6162,7 @@
   {
     "id": 441,
     "test": "Math",
-    "grade": "Integrated III",
+    "grade": "Integrated-3",
     "category": "Language Proficiency",
     "subCategory": "PHLOTE/FELL/NA",
     "totalRecords": "7,611",
