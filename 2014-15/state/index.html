@@ -10,7 +10,8 @@
     <link href="http://extras.denverpost.com/projects/2015/salary-tables/demos/css/footable-demos.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="http://extras.denverpost.com/foundation/css/foundation.css" />
     <link rel="stylesheet" href="http://extras.denverpost.com/foundation/css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="http://extras.denverpost.com/weather-closures/weather-closures-styles.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="http://extras.denverpost.com/weather-closures/weather-closures-styles.css" /> -->
     <link rel="shortcut icon" href="http://extras.mnginteractive.com/live/media/favIcon/dpo/favicon.ico" type="image/x-icon" />
 
     <!-- Google fonts -->
@@ -54,7 +55,7 @@
     span.footable-toggle {
   		font-size: 11px !important;
   		color: #4682B4 !important;
-	}
+		}
     input#filter {
       height: 2.5rem;
     }
@@ -134,15 +135,15 @@
 		<!-- Table -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <table class="parcc" data-filter="#filter" data-page-size="75">
+        <table class="parcc" data-filter="#filter" data-page-size="50">
           <thead>
             <tr>
-							<th data-type="numeric" data-sort-initial="ascending">Reset sort</th>              
-							<th data-toggle="true">Test</th>
-    		      <th data-hide="phone" data-sort-ignore="true">Grade</th>
-    		      <th data-hide="phone"  data-sort-ignore="true">Category</th>
+							<th data-toggle="true" data-type="numeric" data-sort-initial="ascending"><span style="color: red">Reset sort</span></th>              
+							<th>Test</th>
+    		      <th data-sort-ignore="true">Grade</th>
+    		      <th data-hide="all"  data-sort-ignore="true">Category</th>
     		      <th data-hide="phone">Sub-category</th>
-    		      <th data-type="numeric">Total students</th>
+    		      <th data-hide="all" data-type="numeric">Total students</th>
     		      <th data-type="numeric">Participation rate</th>
 							<th data-type="numeric">Did not meet expectations</th>
 							<th data-type="numeric">Partially met expectations</th>
