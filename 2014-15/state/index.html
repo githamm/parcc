@@ -3,7 +3,7 @@
   <head>
   	<meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Colorado&rsquo;s Tightening Labor Markets | The Denver Post</title>
+    <title>PARCC Test Results 2014-15 | The Denver Post</title>
 
     <!-- Style sheets -->
     <link href="http://extras.denverpost.com/projects/2015/salary-tables/css/footable.core.css?v=2-0-1" rel="stylesheet" type="text/css"/>
@@ -19,8 +19,7 @@
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 
-    <!-- Scripts -->
-    
+    <!-- Scripts -->    
     <script src="http://extras.denverpost.com/foundation/js/vendor/modernizr.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
     <script>
@@ -31,47 +30,14 @@
     <script src="http://extras.denverpost.com/projects/2015/salary-tables/js/footable.filter.js?v=2-0-1" type="text/javascript"></script>
     <script src="http://extras.denverpost.com/projects/2015/salary-tables/js/footable.paginate.js?v=2-0-1" type="text/javascript"></script>
     <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
-
-    <style type="text/css">
-    h1 {
-    	font-family: 'Oswald', arial, sans-serif;
-    	font-weight: 700;
-    	font-size: 48px;
-    	line-height: 52px;
-    }
-    p.intro {
-    	font-family: 'Oswald', arial, sans-serif;
-    	font-weight: 400;
-    	font-size: 18px;
-    	color: rgba(0, 0, 0, .8)
-    }
-    p.source {
-        font-family: arial, sans-serif;
-    	font-size: 14px;
-    	font-style: italic;
-    	text-align: right;
-    	color: rgba(0, 0, 0, .8)
-    }
-    span.footable-toggle {
-  		font-size: 11px !important;
-  		color: #4682B4 !important;
-		}
-    input#filter {
-      height: 2.5rem;
-    }
-    select {
-      height: 2.5rem;
-    }
-    </style>
-  </head>
+	</head>
 
   <body>
-
     <!-- Title and intro -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <h1>Tightening Labor Markets</h1>
-        <p class="intro">Colorado&rsquo;s unemployment dropped to 3.3 percent in September, its lowest level since May 2007, before the financial crisis. The table shows data for each Colorado county: number of people in the labor force, number employed, number unemployed, unemployment rate and the last year the unemployment rate was this low. Click the column headers to sort the data.</p>
+        <h1>2014-15 CMAS and PARCC Test Results</h1>
+        <p class="intro">The table shows state-level results from the new Colorado Measures of Academic Success (CMAS) English language arts (ELA) and math tests (PARCC) measuring the Colorado Academic Standards. Click the column headers to sort the data. Use the keyword search and/or filters to isolate specific data.</p>
       </div>
     </div>
 
@@ -148,15 +114,16 @@
 							<th data-type="numeric">Did not meet expectations</th>
 							<th data-type="numeric">Partially met expectations</th>
 							<th data-type="numeric">Approached expectations</th>
-							<th data-type="numeric">Met expectations</th>
-							<th data-type="numeric">Exceeded expectations</th>
+							<th data-hide="all" data-type="numeric">Met expectations</th>
+							<th data-hide="all" data-type="numeric">Exceeded expectations</th>
+							<th data-type="numeric">Met or exceeded expectations</th>
     		    </tr>
           </thead>
           <tbody>
           </tbody>
           <tfoot class="hide-if-no-paging">
             <tr>
-              <td colspan="12">
+              <td colspan="13">
         				<div class="pagination pagination-centered hide-if-no-paging"></div>
         			</td>
             </tr>
@@ -169,7 +136,7 @@
     <script>
 
       function create_row (item) {
-      var row = $('<tr><td>' + item['id'] + '</td><td>' + item['test'] + '</td><td>' + item['grade'] + '</td><td>' + item['category'] + '</td><td>' + item['subCategory'] + '</td><td>' + item['totalRecords'] + '</td><td>' + item['participationRate']  + '</td><td>' + item['didNotMeet'] + '</td><td>' + item['partiallyMet'] + '</td><td>' + item['approached'] + '</td><td>' + item['met'] + '</td><td>' + item['exceeded'] + '</td></tr>');
+      var row = $('<tr><td>' + item['id'] + '</td><td>' + item['test'] + '</td><td>' + item['grade'] + '</td><td>' + item['category'] + '</td><td>' + item['subCategory'] + '</td><td>' + item['totalRecords'] + '</td><td>' + item['participationRate']  + '</td><td>' + item['didNotMeet'] + '</td><td>' + item['partiallyMet'] + '</td><td>' + item['approached'] + '</td><td>' + item['met'] + '</td><td>' + item['exceeded'] + '</td><td>' + item['atBenchmark'] + '</td></tr>');
         return row;
       }
 

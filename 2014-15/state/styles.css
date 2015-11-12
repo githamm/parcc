@@ -1,3 +1,33 @@
+h1 {
+	font-family: 'Oswald', arial, sans-serif;
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 52px;
+}
+p.intro {
+	font-family: 'Oswald', arial, sans-serif;
+	font-weight: 400;
+	font-size: 23px;
+	color: rgba(0, 0, 0, .8)
+}
+p.source {
+    font-family: arial, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	text-align: right;
+	color: rgba(0, 0, 0, .8)
+}
+span.footable-toggle {
+	font-size: 11px !important;
+	color: #4682B4 !important;
+}
+input#filter {
+  height: 2.5rem;
+}
+select {
+  height: 2.5rem;
+}
+
 /* Imported styles - clean up */
 
 .social-icons {
@@ -90,11 +120,6 @@ h1.main-hed {
       line-height: 52px;
       color: rgba(0, 0, 0, 1);
     }
-p.intro {
-  font-family: 'Alfa Slab One', arial, sans-serif;
-  font-size: 18px;
-  color: rgba(0, 0, 0, .75)
-}
 .menu-links {
   font-family: 'Alfa Slab One', arial, sans-serif;
   font-size: 15px;
@@ -152,7 +177,7 @@ li {
 
 @media screen and (max-width: 600px) {
   p.intro {
-  font-family: 'Alfa Slab One', arial, sans-serif;
+  font-family: 'Oswald', arial, sans-serif;
   font-size: 16px;
   color: rgba(0, 0, 0, .75)
   }
